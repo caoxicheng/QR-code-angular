@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
 
+此项目为在angular框架中生成QR-code的demo，认真来讲和框架没什么关系，只是一个生成二维码的案例仅此而已。
+
+**此项目没有自动化测试相关代码**
+
+安装
+```
+pnpm i // 没有安装pnpm的使用 npm i
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
